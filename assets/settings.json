@@ -1,0 +1,9 @@
+{
+    "usingRealmDatabase": false,
+    "realmDatabaseName": "Base",
+    "realmDatabaseSchemaVersion": 0,
+    "usingSharedPreference": false,
+    "sharedPreferenceName": "Base",
+    "usingRetrofitAPI": false,
+    "retrofitAPIUrl": "http://localhost/"
+}
